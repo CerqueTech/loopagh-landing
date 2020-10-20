@@ -4130,8 +4130,12 @@ figcaption {
     -ms-flex-align: center;
     align-items: center;
   }
-  .feature-wrapper {
+  .feature-wrapper-2 {
     opacity: 1 !important;
+    padding-right: 0px;
+    padding-left: 0px;
+  }
+  .feature-wrapper {
     padding-right: 0px;
     padding-left: 0px;
   }
