@@ -3672,9 +3672,8 @@ figcaption {
     line-height: 72px;
   }
   .mockup-img {
-    width: 75%;
-    margin-right: auto;
-    margin-left: auto;
+    width: 80%;
+    margin-left: 1em !important;
   }
   .features-row {
     margin-bottom: 40px;
@@ -3745,9 +3744,7 @@ figcaption {
     padding-bottom: 10px;
   }
   .feature-img {
-    width: 100%;
-    height: auto;
-    max-width: none;
+    margin-left: -3em !important;
   }
   .utility-page-content {
     width: 50%;
@@ -4112,7 +4109,9 @@ figcaption {
     text-align: center;
   }
   .mockup-img {
-    width: 100%;
+    max-width: 160% !important;
+    width: 160% !important;
+    margin-left: 0em !important;
   }
   .hero-top {
     display: -webkit-box;
@@ -4132,6 +4131,7 @@ figcaption {
     align-items: center;
   }
   .feature-wrapper {
+    opacity: 1 !important;
     padding-right: 0px;
     padding-left: 0px;
   }
@@ -4142,6 +4142,7 @@ figcaption {
     display: flex;
     padding-right: 0px;
     padding-left: 0px;
+    opacity: 1 !important;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
     -webkit-flex-direction: column;
