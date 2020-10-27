@@ -4160,6 +4160,7 @@ figcaption {
     -ms-flex-align: center;
     align-items: center;
   }
+  
   .feature-img-wrapper.padding-left {
     display: -webkit-box;
     display: -webkit-flex;
